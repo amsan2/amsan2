@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white" />
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+</div>
+  <div align="center">
 <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white" />
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white" />
-</div>
+  </div>
